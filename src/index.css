@@ -66,6 +66,10 @@ body {
   line-height: 1.5;
   font-size: 0.875rem;
 }
+header{
+padding: 3rem .2rem 0;
+text-align: center;
+}
 ul {
   list-style-type: none;
 }
